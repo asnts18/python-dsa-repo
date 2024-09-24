@@ -1,3 +1,8 @@
+"""
+    Abegail Santos
+    Date: 09/24/24
+""" 
+
 def is_palindrome(s):
     left = 0                    # starting index
     right = len(s) - 1          # last index, adjusted
