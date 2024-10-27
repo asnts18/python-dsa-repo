@@ -1,4 +1,4 @@
-# python_dsa_repo
+# Python Data Structures & Algorithms Repository
 
 - This project serves as a collection of my solutions and code snippets for various data structures and algorithms problems, primarily from LeetCode. This repository also includes examples based on specific coding patterns, which are useful for mastering core concepts in algorithmic problem-solving.
 
