@@ -1,6 +1,6 @@
 """
     Abegail Santos
-    Code sample from Educative 
+    Date: 10/27/24
 """
 
 from BinaryTree import *
